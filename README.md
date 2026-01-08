@@ -202,11 +202,5 @@ In the future, we plan to integrate video solutions within our application. User
 
 ## Conclusion
 Sahayak, developed by Team Dynamo, enhances customer support through state-of-the-art AI and NLP technologies. It addresses current challenges and paves the way for future innovations in virtual customer service.
-## About Team
-For more information about our team members, please visit our LinkedIn profiles:
 
-- [Sujal Singh](https://www.linkedin.com/in/sujal-singh-4a0b49223/)
-- [Anupam Mittal](https://www.linkedin.com/in/anupam-mittal-702534223/)
-- [Tushar Khandelwal](https://www.linkedin.com/in/tushar-khandelwal-58522722b/)
-- [Apoorv Yash](https://www.linkedin.com/in/apoorv-yash-75b130230/)
 ---
