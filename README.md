@@ -9,7 +9,7 @@
 #### Youtube Video Link: https://youtu.be/kjU2W9N35rs
 #### Website Link: https://vcs-hackon-kohl.vercel.app/
 #### About us Link: https://vcs-about-us.vercel.app/
-#### PPT Link:https://drive.google.com/file/d/1qKQ3IkfksyHJlZvpb4gtmIOX0ZWIVr_x/view?usp=sharing
+#### PPT Link:https://drive.google.com/file/d/19mmIvnlgR6e1khCkA7RonQOfBEmOIk6u/view?usp=sharing
 ## Key Features
 
 ### 1. Automated Voice Call Assistant
